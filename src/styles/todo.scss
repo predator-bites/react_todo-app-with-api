@@ -66,28 +66,6 @@
     }
   }
 
-
-  // &-enter-active {
-  //   transition: all 1s;
-  //   transform: translateY(15%);
-  // }
-
-
-  // &-exit {
-  //   transition: all 1s;
-  //   transform: translateY(-10%);
-  // }
-
-  // &-exit-active {
-  //   transition: all 1s;
-  //   transform: translateY(-20%);
-  // }
-
-  // &-exit-done {
-  //   transition: all 1s;
-  //   transform: translateY(-100%);
-  // }
-
   &:hover &__remove {
     opacity: 1;
   }
